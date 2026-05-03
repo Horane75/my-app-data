@@ -28,7 +28,17 @@
   "name" :"Morph Gauntlet", 
   "img" :"https://i.postimg.cc/MHpWnYBt/pack-icon.png", 
   "link" :"https://www.mediafire.com/file/o4d1kczjqt8z56y/Morph_Gauntlet.zip/file" 
-  } 
+  },
+  {
+  "name" :"Battlecraf", 
+  "img" :"https://i.postimg.cc/0NNRdNj6/pack-icon.png", 
+  "link" :"https://www.mediafire.com/file/43ip5bi71lahw40/Battlecraf.zip/file"
+ }, 
+ {
+ "name" :"TravelersBackpack", 
+ "img" :"https://i.postimg.cc/q7chnjt2/pack-icon.png", 
+ "link" :"https://www.mediafire.com/file/t8nhf8grp4b67rh/TravelersBackpack.zip/file" 
+}
     
   
 ]
